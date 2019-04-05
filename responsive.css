@@ -1,0 +1,32 @@
+@media (max-width:500px) {
+  .introduce {
+    font-size: 30px;
+    height:auto;
+  }
+
+  .top-picture {
+    height:200px;
+    width:200px;
+  }
+
+  .myself {
+    font-size: 20px;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  header {
+    height:auto;
+  }
+
+  .introduce-item {
+    font-size: 30px;
+    height:auto;
+  }
+
+  .name {
+    font-size: 40px;
+  }
+}
