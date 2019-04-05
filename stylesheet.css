@@ -1,0 +1,148 @@
+* {
+  box-sizing:border-box;
+}
+
+body {
+  font-family:serif;
+  margin:0px;
+}
+main {
+
+}
+header {
+  background-color: rgb(86, 157, 240);
+  height:100px;
+}
+
+h1 {
+  display:block;
+  margin:0;
+  padding:20px 0;
+  font-size: 50px;
+  text-align: center;
+  color:white;
+  font-family: impact;
+}
+
+.top-picture {
+  padding: 10px;
+  display: block;
+  border-radius: 350px;
+  margin: 0 auto;
+  width:350px;
+  height:350px;
+}
+
+.introduce {
+  height:400px;
+  text-align: center;
+  font-weight: bold;
+  font-family: impact;
+  font-size: 150px;
+  background-color: white;
+  padding:30px 0;
+}
+
+.introduce-item {
+  display: block;
+  padding:20px 0;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: impact;
+  height:100px;
+  margin: 0 auto;
+}
+
+.about-me {
+  background-color: rgb(138, 203, 231);
+}
+
+.skill {
+  background-color:rgb(255, 50, 50);
+}
+
+.portfolio {
+  background-color:rgb(0, 161, 89);
+}
+
+.details {
+  display: block;
+  margin:0 auto;
+  text-align:center;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+.name {
+  font-size: 50px;
+  padding-top:10px;
+  padding-bottom:30px;
+  margin:0px;
+}
+
+.myself {
+  font-size: 30px;
+  padding-bottom: 30px;
+  margin:0px;
+}
+
+.icon {
+  font-size: 50px;
+  padding-top: 35px;
+}
+
+.skill-item {
+  font-size: 30px;
+  margin:0px;
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+
+.language-icon {
+  font-size: 100px;
+  padding-top: 30px;
+}
+
+.htmlcss {
+  padding-right: 10px;
+}
+
+.fa-html5 {
+  color:rgb(255, 99, 0);
+}
+
+.fa-css3-alt {
+  color:rgb(25, 110, 255);
+}
+
+.fa-js {
+  color:rgb(0, 186, 255);
+}
+
+.fa-php {
+  color:rgb(130, 71, 254);
+}
+
+.contact {
+  display: block;
+  margin:0 auto;
+  text-align:center;
+  font-size: 80px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+.footer-icon {
+  text-decoration: none;
+  padding-right: 20px;
+}
+
+.fa-envelope {
+  color:white;
+}
+
+.fa-instagram {
+  color:white;
+}
