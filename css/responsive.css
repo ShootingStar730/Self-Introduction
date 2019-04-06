@@ -1,57 +1,127 @@
-@media (max-width:320px) {
-  h1 {
-    font-size: 30px;
-    height: auto;
+@media (min-width:2560px) {
+ .introduce {
+   font-size:100px;
+ }
+
+ h1 {
+   font-size:100px;
+ }
+
+ .top-picture {
+  width:500px;
+  height:500px;
+ }
+
+ .name {
+  font-size: 80px;
   }
 
-  .introduce {
-    font-size: 10px;
-    height:auto;
+.myself {
+  font-size: 50px;
   }
 
-  .top-picture {
-    width:150px;
-    height:150px;
+.contact {
+  font-size:100px;
   }
 
-  .name {
-    font-size: 35px;
+.introduce-item {
+  font-size:100px;
+  height:auto;
   }
 
-  .myself {
-    font-size: 15px;
+.icon {
+  font-size: 100px;
   }
 
-  .contact {
-    font-size:50px;
-  }
-
-  .introduce-item {
-    font-size:30px;
-    height:auto;
+.language-icon {
+  font-size: 200px;
   }
 }
 
- @media (max-width:375px) {
+@media (max-width:1440px) {
+ .introduce {
+   font-size:100px;
+ }
+
+ h1 {
+   /* font-size:80px; */
+ }
+
+ .top-picture {
+  /* width:350px; */
+  /* height:350px; */
+ }
+
+ .name {
+  /* font-size: 50px; */
+}
+
+.myself {
+  /* font-size: 30px; */
+}
+
+.contact {
+  font-size:60px;
+}
+
+.introduce-item {
+  /* font-size:60px; */
+  height:auto;
+}
+}
+
+@media (max-width:1024px) {
+.introduce {
+  font-size:60px;
+}
+
+h1 {
+  /* font-size:60px; */
+}
+
+.top-picture {
+ /* width:300px; */
+ /* height:300px; */
+}
+
+.name {
+ /* font-size: 50px; */
+}
+
+.myself {
+ /* font-size: 30px; */
+}
+
+.contact {
+ font-size:60px;
+}
+
+.introduce-item {
+ /* font-size:35px; */
+ height:auto;
+}
+}
+
+ @media (max-width:768px) {
    .introduce {
-     font-size:20px;
+     font-size:50px;
    }
 
    h1 {
-     font-size:30px;
+     /* font-size:30px; */
    }
 
    .top-picture {
-    width:200px;
-    height:200px;
+    /* width:200px; */
+    /* height:200px; */
    }
 
    .name {
-    font-size: 40px;
+    /* font-size: 40px; */
   }
 
   .myself {
-    font-size: 18px;
+    /* font-size: 30px; */
   }
 
   .contact {
@@ -59,10 +129,12 @@
   }
 
   .introduce-item {
-    font-size:35px;
+    /* font-size:35px; */
     height:auto;
   }
  }
+
+
 
  @media (max-width:425px) {
    .introduce {
@@ -91,14 +163,16 @@
   }
 
   .introduce-item {
-    font-size:35px;
+    /* font-size:35px; */
     height:auto;
   }
  }
 
- @media (max-width:768px) {
+
+
+ @media (max-width:375px) {
    .introduce {
-     font-size:50px;
+     /* font-size:20px; */
    }
 
    h1 {
@@ -115,7 +189,7 @@
   }
 
   .myself {
-    font-size: 30px;
+    font-size: 18px;
   }
 
   .contact {
@@ -123,111 +197,41 @@
   }
 
   .introduce-item {
-    font-size:35px;
+    /* font-size:35px; */
     height:auto;
   }
  }
 
-   @media (max-width:1024px) {
-   .introduce {
-     font-size:60px;
+ @media (max-width:320px) {
+   h1 {
+     font-size: 30px;
+     height: auto;
    }
 
-   h1 {
-     font-size:60px;
+   .introduce {
+     /* font-size: 10px; */
+     height:auto;
    }
 
    .top-picture {
-    width:300px;
-    height:300px;
+     width:150px;
+     height:150px;
    }
 
    .name {
-    font-size: 50px;
-  }
-
-  .myself {
-    font-size: 30px;
-  }
-
-  .contact {
-    font-size:60px;
-  }
-
-  .introduce-item {
-    font-size:35px;
-    height:auto;
-  }
- }
-
-  @media (max-width:1440px) {
-   .introduce {
-     font-size:100px;
+     font-size: 35px;
    }
 
-   h1 {
-     font-size:80px;
+   .myself {
+     font-size: 15px;
    }
 
-   .top-picture {
-    width:350px;
-    height:350px;
+   .contact {
+     font-size:50px;
    }
 
-   .name {
-    font-size: 50px;
-  }
-
-  .myself {
-    font-size: 30px;
-  }
-
-  .contact {
-    font-size:60px;
-  }
-
-  .introduce-item {
-    font-size:60px;
-    height:auto;
-  }
- }
-
-  @media (min-width:2560px) {
-   .introduce {
-     font-size:100px;
+   .introduce-item {
+     font-size:30px;
+     height:auto;
    }
-
-   h1 {
-     font-size:100px;
-   }
-
-   .top-picture {
-    width:500px;
-    height:500px;
-   }
-
-   .name {
-    font-size: 80px;
-  }
-
-  .myself {
-    font-size: 50px;
-  }
-
-  .contact {
-    font-size:100px;
-  }
-
-  .introduce-item {
-    font-size:100px;
-    height:auto;
-  }
-
-  .icon {
-    font-size: 100px;
-  }
-
-  .language-icon {
-    font-size: 200px;
-  }
  }
